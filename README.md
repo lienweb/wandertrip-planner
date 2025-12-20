@@ -5,7 +5,11 @@
 
 # WanderTrip Planner
 
-An intelligent, product-focused travel planner that generates structured, realistic itineraries based on your specific constraints and preferences.
+An travel planner that generates structured, realistic itineraries based on your specific constraints and preferences.
+
+https://github.com/user-attachments/assets/89da64cc-92c3-440f-8d8e-22d8ab7a5dd7
+
+
 
 # Run and deploy your AI Studio app
 
