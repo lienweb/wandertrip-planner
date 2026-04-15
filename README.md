@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/89da64cc-92c3-440f-8d8e-22d8ab7a5dd7
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1JbaGmq0TvSVWrUNd0Ah5xto7Yl1onfK2
+View your app in AI Studio: https://wanderplan-ai-676933189274.us-west1.run.app/
 
 ## Run Locally
 
